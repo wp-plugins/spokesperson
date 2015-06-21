@@ -34,19 +34,13 @@ Activate Spokesperson from your Plugins page.
 
 In User profile you will see two new fields "Position" and "Twitter Username". Fill them with required information.
 
-![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-1.png)
-
 Visit the Appearence > Widgets page from your wp-admin. In there you will see a new widget called "Spokesperson". Drag and drop to your widget area and you will see all users registered in your site are there. Check 'em up users you want to show in widget.
 
-![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-2.png)
-
 Now you will see the widget is showing in widget area.
-
-![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-3.png)
 
 NB: Widget will get a basic design and other design related things are depending on theme. Its tested with Twentty Eleven and we are confident it will work with any standrad theme.
 
 == Screenshots ==
-1. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-1.png
-2. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-2.png
-3. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-3.png
+1. https://s.w.org/plugins/spokesperson/screenshot-1.png?r=1185140
+2. https://s.w.org/plugins/spokesperson/screenshot-2.png?r=1185140
+3. https://s.w.org/plugins/spokesperson/screenshot-3.png?r=1185140
