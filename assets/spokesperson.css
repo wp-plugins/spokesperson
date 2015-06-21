@@ -1,0 +1,16 @@
+.spokesperson {
+    list-style: none;
+    min-height: 85px;
+    border: 0 !important;
+}
+
+.spokesperson a {
+    line-height: 26px;
+}
+
+.spokesperson .avatar {
+    float: left;
+    margin: 0 10px 35px 0;
+    border-radius: 50%;
+}
+
