@@ -1,4 +1,4 @@
-=== spokesperson ===
+=== SpokesPerson ===
 Contributors: asifsaho, evenfly
 Tags: spokesperson, contributor, widget, userlist
 Requires at least: 4.1
@@ -41,6 +41,6 @@ Now you will see the widget is showing in widget area.
 NB: Widget will get a basic design and other design related things are depending on theme. Its tested with Twentty Eleven and we are confident it will work with any standrad theme.
 
 == Screenshots ==
-1. https://s.w.org/plugins/spokesperson/screenshot-1.png?r=1185140
-2. https://s.w.org/plugins/spokesperson/screenshot-2.png?r=1185140
-3. https://s.w.org/plugins/spokesperson/screenshot-3.png?r=1185140
+1. New fields in profile page
+2. User interface in widget settings
+3. Display in widget area (color depend on your theme styles)
