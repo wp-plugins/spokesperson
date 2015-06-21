@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Spokesperson
+Plugin Name: SpokesPerson
 Plugin URI:  http://wordpress.org/spokesperson
 Description: Spokesperson is for showing bloggers info publically in widget area.
 Version:     1.0
