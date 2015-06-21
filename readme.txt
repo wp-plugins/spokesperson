@@ -15,26 +15,26 @@ Spokesperson is a simple plugin for public blogs or any kind of WordPress driven
 == Installation ==
 **From your WordPress dashboard**
 
-Visit \'Plugins > Add New\'
+Visit 'Plugins > Add New'
 
-Search for \'Spokesperson\'
+Search for 'Spokesperson'
 Activate Spokesperson from your Plugins page.
 
 **From WordPress.org**
 
 Download Spokesperson.
 
-Upload the \'Spokesperson\' directory to your \'/wp-content/plugins/\' directory, using your favorite method (ftp, sftp, scp, etc...)
+Upload the 'Spokesperson' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
 
 Activate Spokesperson from your Plugins page.
 
 **Once Activated**
 
-In User profile you will see two new fields \"Position\" and \"Twitter Username\". Fill them with required information.
+In User profile you will see two new fields "Position" and "Twitter Username". Fill them with required information.
 
 ![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-1.png)
 
-Visit the Appearence > Widgets page from your wp-admin. In there you will see a new widget called \"Spokesperson\". Drag and drop to your widget area and you will see all users registered in your site are there. Check \'em up users you want to show in widget.
+Visit the Appearence > Widgets page from your wp-admin. In there you will see a new widget called "Spokesperson". Drag and drop to your widget area and you will see all users registered in your site are there. Check 'em up users you want to show in widget.
 
 ![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-2.png)
 
