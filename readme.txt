@@ -45,3 +45,8 @@ Now you will see the widget is showing in widget area.
 ![image](http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-3.png)
 
 NB: Widget will get a basic design and other design related things are depending on theme. Its tested with Twentty Eleven and we are confident it will work with any standrad theme.
+
+== Screenshots ==
+1. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-1.png
+2. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-2.png
+3. http://demo.evenfly.com/wp-content/uploads/2015/06/spokesperson-3.png
