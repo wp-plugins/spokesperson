@@ -19,8 +19,7 @@ include 'scripts.php';
 
 global $wpdb;
 
-$wp_users = $wpdb->get_results("SELECT ID, display_name FROM $wpdb->users WHERE ID IN(1,2,3,4,5) ORDER BY ID");
-
+$wp_users = $wpdb->get_results("SELECT ID, display_name FROM $wpdb->users ORDER BY ID");
 
 /**
  * Adds Spokesperson_Widget widget.
@@ -61,7 +60,7 @@ class Spokesperson_Widget extends WP_Widget {
                 $user_data = get_userdata($person); ?>
                     <li class="spokesperson">
                         <a href="<?php echo site_url(). '/author/' . $user_data->user_login; ?>">
-                            <?php echo get_avatar($person, 44); ?>
+                            <?php echo get_avatar($person, 88); ?>
                         </a>
 
                          <a href="<?php echo site_url(). '/author/' . $user_data->user_login; ?>">
@@ -77,8 +76,8 @@ class Spokesperson_Widget extends WP_Widget {
                         </a> <br>
 
                         <?php if($user_data->twitter) : ?>
-                            <a href="<?php echo 'https://twitter.com/'.$user_data->twitter ?>" class="twitter fa fa-twitter">
-                                <?php echo '@'.$user_data->twitter; ?>
+                            <a href="<?php echo 'https://twitter.com/'.$user_data->twitter ?>" class="twitter">
+                                <?php echo '<i class="fa fa-twitter"></i> @'.$user_data->twitter; ?>
                             </a>
                         <?php endif; ?>
 
